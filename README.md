@@ -20,5 +20,5 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theapache64&" alt="theapache64"/></p>
 
-[![theapache64's GitHub stats](https://github-readme-stats.vercel.app/api?username=theapache64&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![theapache64's GitHub stats](https://github-readme-stats.vercel.app/api?username=theapache64&theme=radical)](https://twitter.com/theapache64)
 
